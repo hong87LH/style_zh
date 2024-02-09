@@ -15,7 +15,7 @@
         "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
     },
     {
-        "name": "sai-动画",
+        "name": "sai-日本动画",
         "prompt": "anime artwork {prompt} . anime style, key visual, vibrant, studio anime,  highly detailed",
         "negative_prompt": "photo, deformed, black and white, realism, disfigured, low contrast"
     },
@@ -25,7 +25,7 @@
         "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
     },
     {
-        "name": "sai-漫画书",
+        "name": "sai-美国漫画书",
         "prompt": "comic {prompt} . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
         "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo"
     },
@@ -590,7 +590,7 @@
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast"
     },
     {
-        "name": "漫画",
+        "name": "夸张漫画",
         "prompt": "Caricature, {prompt}, exaggerated, comical, caricature",
         "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realistic"
     },
