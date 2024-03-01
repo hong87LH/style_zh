@@ -1,6 +1,6 @@
 [
     {
-        "name": "无风格",
+        "name": "base",
         "prompt": "{prompt}",
         "negative_prompt": ""
     },
